@@ -6,3 +6,4 @@
 </ul>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusXR&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusXR&layout=compact)](https://github.com/ViniciusXR/github-readme-stats)
