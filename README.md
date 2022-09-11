@@ -15,10 +15,24 @@
        alt="">
 </a>
 
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"
+       alt="">
+</a>
+
+<a href="https://www.w3schools.com/css/">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"
+       alt="">
+</a>
+
+<a href="https://docs.microsoft.com/pt-br/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
+       alt="">
+</a>
+
 <a href="https://www.linkedin.com/in/vinicius-xavier-ramalho-b4b98a231/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
        alt="">
 </a>
-
 
 </div>
