@@ -11,8 +11,7 @@
 <div>
 
 <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"
-       alt="">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </a>
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
