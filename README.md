@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/vinicius-xavier-ramalho-b4b98a231/">
+<a href="https://www.linkedin.com/in/vinicius-xavier-ramalho/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
