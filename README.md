@@ -1,6 +1,6 @@
 <h1>👋 Olá meu nome é Vinicius Xavier</h1>
 <ul>
-  <li>👀 Atualmente estou interessado em C#</li>
+  <li>👀 Atualmente estou interessado em C# e AWS</li>
   <li>🌱 Eu estou aprendendo C#</li>
   <li>📫 Você pode entrar em contato comigo no e-mail viniciusxr89@gmail.com</li>
 </ul>
